@@ -1,0 +1,1 @@
+/home/thodges/Workspace/Rust/projects/chapter5/rectangles_with_tuple_struct_derived_traits/target/debug/rectangles_with_tuple_struct_derived_traits: /home/thodges/Workspace/Rust/projects/chapter5/rectangles_with_tuple_struct_derived_traits/src/main.rs

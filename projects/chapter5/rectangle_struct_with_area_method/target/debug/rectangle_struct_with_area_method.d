@@ -1,0 +1,1 @@
+/home/thodges/Workspace/Rust/projects/chapter5/rectangle_struct_with_area_method/target/debug/rectangle_struct_with_area_method: /home/thodges/Workspace/Rust/projects/chapter5/rectangle_struct_with_area_method/src/main.rs

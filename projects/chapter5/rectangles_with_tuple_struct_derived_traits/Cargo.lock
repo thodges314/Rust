@@ -1,0 +1,4 @@
+[[package]]
+name = "rectangles_with_tuple_struct_derived_traits"
+version = "0.1.0"
+
