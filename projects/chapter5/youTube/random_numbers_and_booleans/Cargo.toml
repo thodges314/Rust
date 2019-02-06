@@ -1,0 +1,8 @@
+[package]
+name = "random_numbers_and_booleans"
+version = "0.1.0"
+authors = ["Thomas Hodges <thomas.hodges@clearcapital.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3"
