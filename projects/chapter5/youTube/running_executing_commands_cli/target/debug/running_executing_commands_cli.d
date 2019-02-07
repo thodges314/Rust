@@ -1,0 +1,1 @@
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/running_executing_commands_cli/target/debug/running_executing_commands_cli: /home/thodges/Workspace/Rust/projects/chapter5/youTube/running_executing_commands_cli/src/main.rs
