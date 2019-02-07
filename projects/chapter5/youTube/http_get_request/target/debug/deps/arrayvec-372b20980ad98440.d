@@ -1,0 +1,11 @@
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/libarrayvec-372b20980ad98440.rlib: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs
+
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/arrayvec-372b20980ad98440.d: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs
+
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs:

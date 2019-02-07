@@ -1,0 +1,13 @@
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/liburl-33fdcc9560355a8b.rlib: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/url-33fdcc9560355a8b.d: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

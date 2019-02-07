@@ -1,0 +1,13 @@
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/libtokio_uds-cf1b61e5e27a9a98.rlib: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/datagram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/frame.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/incoming.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/listener.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/recv_dgram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/send_dgram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/stream.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/ucred.rs
+
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/tokio_uds-cf1b61e5e27a9a98.d: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/datagram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/frame.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/incoming.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/listener.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/recv_dgram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/send_dgram.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/stream.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/ucred.rs
+
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/lib.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/datagram.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/frame.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/incoming.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/listener.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/recv_dgram.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/send_dgram.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/stream.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.5/src/ucred.rs:

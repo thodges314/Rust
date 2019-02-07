@@ -1,0 +1,13 @@
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/libnet2-7b9cfde64e42857e.rlib: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/home/thodges/Workspace/Rust/projects/chapter5/youTube/http_get_request/target/debug/deps/net2-7b9cfde64e42857e.d: /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs /home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs
+
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/lib.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/tcp.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/udp.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/socket.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/ext.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/utils.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/mod.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/sys/unix/impls.rs:
+/home/thodges/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.33/src/unix.rs:
