@@ -1,0 +1,1 @@
+/Users/thodges/Workspace/Rust/rust_by_example/chapter02/literals_and_operators/target/debug/literals_and_operators.dSYM: /Users/thodges/Workspace/Rust/rust_by_example/chapter02/literals_and_operators/src/main.rs
