@@ -11,6 +11,7 @@ fn main() {
 
         // This binding *shadows* the outer one
         let long_lived_binding = 5_f32;
+        // long_lived_binding = 2;
 
         println!("inner long: {}", long_lived_binding);
     }
