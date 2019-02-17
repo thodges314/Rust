@@ -1,0 +1,1 @@
+/home/thodges/Workspace/Rust/the_rust_programming_language/chapter02/guessing_game/target/debug/guessing_game: /home/thodges/Workspace/Rust/the_rust_programming_language/chapter02/guessing_game/src/main.rs
