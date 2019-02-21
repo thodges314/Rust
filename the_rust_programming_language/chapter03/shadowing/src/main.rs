@@ -5,6 +5,6 @@ fn main() {
     println!("The value of x is: {}", x);
 
     let spaces = "     ";
-    let spaces = spaces.len(); // instantly assigns new type.
+    let spaces = spaces.len(); // instantly assigns new
     println!("{}", spaces);
 }
