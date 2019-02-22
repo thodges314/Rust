@@ -1,0 +1,8 @@
+[package]
+name = "fun4_fact_crate"
+version = "0.1.0"
+authors = ["Thomas Hodges <thodges@javascriptonline.org>"]
+edition = "2018"
+
+[dependencies]
+num = "0.2.0"

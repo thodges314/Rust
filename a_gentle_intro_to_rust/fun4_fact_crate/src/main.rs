@@ -1,8 +1,12 @@
-fn fact_recursive(x: u128) -> u128 {
-    if x == 0 {
-        1
+extern crate num;
+
+use num::BigUint;
+
+fn fact_recursive(x: num::BigUint) -> num::BigUint {
+    if x == BigUint::from(0 as u64) {
+        BigUint::from(1 as u64)
     } else {
-        x * fact_recursive(x - 1)
+        x * fact_recursive(x - BigUint::from(1 as u64))
     }
 }
 
@@ -19,7 +23,10 @@ fn fact_iterators(x: u64) -> u64 {
 }
 
 fn main() {
-    println!("fact_recursive(20) : {}", fact_recursive(20));
+    println!(
+        "fact_recursive(20) : {}",
+        fact_recursive(BigUint::from(20 as u64))
+    );
     println!("fact_iterative(20) : {}", fact_iterative(20));
     println!("fact_iterators(20) : {}", fact_iterators(20));
 }
