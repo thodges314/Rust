@@ -16,6 +16,6 @@ fn main() {
     }
 
     if let Some(idx) = multilingual.find('п') {
-        println!("Rissuan hi: {}", &multilingual[idx..]);
+        println!("Russuan hi: {}", &multilingual[idx..]);
     }
 }
