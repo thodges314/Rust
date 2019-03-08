@@ -1,0 +1,1 @@
+/Users/thodges/Workspace/Rust/the_rust_programming_language/chapter08/add_strings/target/debug/add_strings.dSYM: /Users/thodges/Workspace/Rust/the_rust_programming_language/chapter08/add_strings/src/main.rs
