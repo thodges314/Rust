@@ -13,7 +13,8 @@ fn main() {
     // 	Some(v)=>v,
     // 	_=>"NOTHING",
     // };
-    let r = hm.get(&4).unwrap(); // will return wrapped item or PANIC!!
+    // let r = hm.get(&4).unwrap(); // will return wrapped item or PANIC!!
+    let r = hm.get(&4).unwrap_or(&"NOTHING"); // will return wrapped item or NOTHING - we need a pointer because 'get' always returns a pointer
 
     println!("{}", r);
 }
