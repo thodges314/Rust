@@ -1,5 +1,5 @@
 
-#[derive(Debug)] // derives ability to print string
+#[derive(Debug)] // derives ability to print string automatically
 struct User {
 	name:String,
 	age:i32,
@@ -7,12 +7,25 @@ struct User {
 	shoesize:i32,
 
 }
+
+impl User {
+	fn simple_string(&self) -> String{ // will override simple_string - &self points to self as read-only
+		format!("{} - {} years - {} cm - shoe: {}", self.name, self.age, self.height, self.shoesize)
+	}
+
+	fn grow(&mut self, h: i32){ // will mutate self and returns nothing.
+		self.height += h;
+	}
+}
+
 fn main() {
-	let u = User{
+	let mut u = User{ // must make u mutable for grow
 		name: "matt".to_string(), // converts &str to String
 		age: 33,
 		height: 250,
 		shoesize: 10,
 	};
-    println!("User is {:?}", u);
+    println!("User is {}", u.simple_string());
+    u.grow(100);
+    println!("User is {}", u.simple_string());
 }
