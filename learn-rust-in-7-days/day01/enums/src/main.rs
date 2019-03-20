@@ -12,6 +12,20 @@ pub enum Room {
 }
 
 fn main() {
-	let t = Room::Kitchen(4);
+	use self::Room::*; // can 'use' locally
+	let mut t = Kitchen(4);
     println!("Hello from the {:?}.", t);
+    // t = Bedroom(Bed{size:50, count:2,});
+
+    // match t {
+    // 	Kitchen(n) => println!("The room is a kitchen with {} rooms.", n),
+    // 	d=>println!("{:?}", d), 
+    // }
+    // 
+    let v = match t {
+    	Kitchen(n) => n,
+    	_=>0, 
+    };
+
+    println!("The number is {}.", v);
 }
