@@ -16,6 +16,10 @@ impl User {
 	fn grow(&mut self, h: i32){ // will mutate self and returns nothing.
 		self.height += h;
 	}
+
+	fn die(self){	// consumes user
+		println!("Dead: {}", self.simple_string());
+	}
 }
 
 fn main() {
@@ -28,4 +32,6 @@ fn main() {
     println!("User is {}", u.simple_string());
     u.grow(100);
     println!("User is {}", u.simple_string());
+    u.die();
+    // u.grow(10); // will make an error because dead
 }
