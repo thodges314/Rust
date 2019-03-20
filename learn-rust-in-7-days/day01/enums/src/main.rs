@@ -8,7 +8,7 @@ pub struct Bed {
 pub enum Room {
 	Kitchen(i32),
 	Bedroom(Bed),
-	Lounge,
+	Lounge(i32, String),
 }
 
 fn main() {
@@ -16,16 +16,24 @@ fn main() {
 	let mut t = Kitchen(4);
     println!("Hello from the {:?}.", t);
     // t = Bedroom(Bed{size:50, count:2,});
+    t = Lounge(5, "big".to_string());
 
     // match t {
     // 	Kitchen(n) => println!("The room is a kitchen with {} rooms.", n),
     // 	d=>println!("{:?}", d), 
     // }
-    // 
-    let v = match t {
-    	Kitchen(n) => n,
-    	_=>0, 
-    };
+    
+    // let v = match t {
+    // 	Kitchen(n) => n,
+    // 	_=>0, 
+    // } + 10;
 
-    println!("The number is {}.", v);
+    if let Kitchen(n) = t {
+    	println!("It's a kitchen with {} cupboards.", n);
+    }
+    if let Lounge(n, s) = t {
+    	println!("It's a {} lounge with {} martinis.", s, n);
+    }
+
+    // println!("The number is {}.", v);
 }
