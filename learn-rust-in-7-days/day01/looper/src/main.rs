@@ -4,6 +4,8 @@ fn main() {
     loop_to_10_for();
     loop_to_10_while();
     array_loop();
+    array_loop_continue();
+    array_loop_break();
 }
 
 fn loop_to_10() {
@@ -39,5 +41,25 @@ fn array_loop() {
 	let v = vec![4,7,9,10];
 	for n in v {
 		println!("{}", n);
+	}
+}
+
+fn array_loop_continue() {
+	let v = vec![4,7,8,9,11,10];
+	for n in v {
+		if n%2 ==0 {
+			continue; //skips remainder of loop code and goes to next member
+		}
+		println!("{} - cont", n);
+	}
+}
+
+fn array_loop_break() {
+	let v = vec![4,7,8,9,11,10];
+	for n in v {
+		if n ==11 {
+			break; //breaks out of look
+		}
+		println!("{} - break", n);
 	}
 }
