@@ -32,10 +32,11 @@ fn loop_to_10_while() {
 }
 
 fn array_loop() {
-	let mut v = Vec::new();
-	v.push(4);
-	v.push(7);
-	v.push(9);
+	// let mut v = Vec::new();
+	// v.push(4);
+	// v.push(7);
+	// v.push(9);
+	let v = vec![4,7,9,10];
 	for n in v {
 		println!("{}", n);
 	}
