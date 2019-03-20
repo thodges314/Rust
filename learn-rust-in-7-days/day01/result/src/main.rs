@@ -9,10 +9,11 @@ fn main() {
     hm.insert(5, "world");
 
     // let r = hm.get(&3); // r returns an *option* enum with possible values Some(v) or None
-    let r = match hm.get(&3) {
-    	Some(v)=>v,
-    	_=>"NOTHING",
-    };
+    // let r = match hm.get(&3) {
+    // 	Some(v)=>v,
+    // 	_=>"NOTHING",
+    // };
+    let r = hm.get(&4).unwrap(); // will return wrapped item or PANIC!!
 
     println!("{}", r);
 }
