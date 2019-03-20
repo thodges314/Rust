@@ -8,7 +8,21 @@ fn main() {
 	for (i, c) in s.chars().enumerate() {
 		println!("{} - {}", i, c);
 	}
+	for (i, c) in s.char_indices() { // indices jump around
+		println!("{} - {}", i, c);
+	}
     for c in s.bytes() {
     	println!("{}", c);
     }
+    println!("Number of l's: {}", count_l(&s)); // dereferences String to &str  - &str is good for read only functions because does not consume data
+}
+
+fn count_l(s:&str) -> i32 {
+	let mut res = 0;
+	for c in s.chars() {
+		if c == 'l' {
+			res += 1;
+		}
+	}
+	res
 }
