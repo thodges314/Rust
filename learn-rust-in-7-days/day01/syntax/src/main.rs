@@ -3,7 +3,7 @@ fn main() {
 	let o = other(5,9);
 	// format!("{} is highest!", b); <-- sets a string value to that result
     println!("{} is highest.", b);
-    println!("{}", o);
+    println!("{} is other", o);
 }
 
 fn higher(a:i32, b:u32, c:i8) -> i32 {
