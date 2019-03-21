@@ -10,3 +10,17 @@ fn main() {
 }
 
 // cargo run -- Alfred Walter Hanry Waldo
+
+// THEIR SOLUTION
+// fn main() {
+//     for a in args() {
+//     	if let Some(c) = a.chars().next() {
+//     		match c {
+//     			'w' | 'W' => println!("Hello, {}!", a),
+//     			_=>{}
+//     		}
+//     	}
+//     }
+// }
+// 
+// Their solution uses more concepts and accounts for either a big or little 'W'.
