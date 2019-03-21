@@ -1,6 +1,6 @@
 use std::ops::Add;
 
-#[derive(Debug)]
+#[derive(Debug, Copy, Clone)]
 struct Point {
 	x: i32,
 	y: i32,
@@ -22,7 +22,7 @@ fn main() {
 
     let c = a + b;
 
-    // println!("a = {:?}", a); // I cant work out how to not have this consume 'self'.
+    println!("a = {:?}", a); // I cant work out how to not have this consume 'self'.
     println!("c = {:?}", c);
 
 
