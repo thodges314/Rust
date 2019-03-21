@@ -19,7 +19,7 @@ fn main() {
     println!("{}", r);
 
     match "berb".parse::<f32>() {	// can append with .unwrap(), .unwrap_or(), .expect() (which gives us error data we type in)
-    	Ok(v) => println!("OK - {}", v),
+    	Ok(v) => println!("OK - {}", v),	// Ok and Err are of the *result* type
     	Err(e) => println!("ERROR - {}", e),
     }
 }
