@@ -4,7 +4,7 @@ use std::env::args;
 fn main() {
     for a in args() {
     	if a.chars().next().unwrap_or(' ') == 'W' {
-    		println!("Hello, {}", a);
+    		println!("Hello, {}!", a);
     	}
     }
 }
