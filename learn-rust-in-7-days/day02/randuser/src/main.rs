@@ -1,4 +1,4 @@
-use rand::Rng; // prelude is convention for publically exposing things in libraries
+use rand::Rng; // prelude is convention for publically exposing things in libraries - Rng is a *trait* from the rand object
 use std::ops::Add;
 
 #[derive(Debug, Clone, Copy)]
@@ -35,7 +35,8 @@ fn main() {
 
     let d = Point::random();
 
-    // println!("a = {:?}", a); // I cant work out how to not have this consume 'self'.
+    println!("a = {:?}", a);
+    println!("b = {:?}", b);
     println!("c = {:?}", c);
     println!("d = {:?}", d);
 
